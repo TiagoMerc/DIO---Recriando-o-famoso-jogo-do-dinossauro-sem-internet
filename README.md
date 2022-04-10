@@ -36,4 +36,8 @@ Front-End | Intermediário
 
 #### Parte 6:
 
-- Crian
+- Criando a função para criar cactus
+
+#### Parte 7:
+
+- Finalizando a função createCatus e criando mais interações no jogo
