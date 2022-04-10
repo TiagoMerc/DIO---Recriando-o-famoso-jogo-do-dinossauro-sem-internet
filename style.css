@@ -5,3 +5,11 @@
  position: absolute; /* Forma que o elemento vai ficar posicionado */
  bottom: 0; /*Dizer que o elemento vai ficar em BAIXO*/
 }
+
+.cactus {
+  position: absolute;
+  width: 60px;
+  height: 60px; /*altura*/
+  bottom: 0;
+  background: red;
+}

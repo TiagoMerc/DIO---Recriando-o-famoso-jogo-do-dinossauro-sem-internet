@@ -30,3 +30,6 @@ Front-End | Intermediário
 
 - Criando a função para o dinossauro pular conforme a tecla espaço é pressionada
 
+#### Parte 5:
+
+- Criando a função para os cactus
