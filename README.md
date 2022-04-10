@@ -18,3 +18,10 @@ Front-End | Intermediário
 #### Parte 2:
 
 - Definindo a estrutura do index e criando a estilização do dino
+
+
+#### Parte 3:
+
+- Iniciando a interação no jogo
+
+- [Pressione qualquer tecla para obter as informações do código de chave do evento JavaScript](https://keycode.info/)
