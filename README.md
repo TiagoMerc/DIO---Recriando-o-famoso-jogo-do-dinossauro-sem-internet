@@ -25,3 +25,8 @@ Front-End | Intermediário
 - Iniciando a interação no jogo
 
 - [Pressione qualquer tecla para obter as informações do código de chave do evento JavaScript](https://keycode.info/)
+
+#### Parte 4:
+
+- Criando a função para o dinossauro pular conforme a tecla espaço é pressionada
+
