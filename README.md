@@ -33,3 +33,7 @@ Front-End | Intermediário
 #### Parte 5:
 
 - Criando a função para os cactus
+
+#### Parte 6:
+
+- Crian
