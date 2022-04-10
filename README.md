@@ -41,3 +41,7 @@ Front-End | Intermediário
 #### Parte 7:
 
 - Finalizando a função createCatus e criando mais interações no jogo
+
+#### Parte 8:
+
+- Estilizando o jogo e finalizando o projeto

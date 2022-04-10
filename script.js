@@ -67,6 +67,7 @@ function createCactus() {
 
   setTimeout(createCactus, randomTime); //Recursividade
 } 
+
 createCactus();
 document.addEventListener('keyup', handleKeyUp);
 // Site para descobrir as informações do código tecla digitada/evento

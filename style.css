@@ -1,19 +1,45 @@
-.dino { /*Elemento por classe, o PONTO*/
- width: 60px;
- height: 60px;
- background: green;
- position: absolute; /* Forma que o elemento vai ficar posicionado */
- bottom: 0; /*Dizer que o elemento vai ficar em BAIXO*/
+body {
+  background:  #fafafa;
 }
+
+.dino { /*Elemento por classe, o PONTO*/
+  width: 60px;
+  height: 60px;
+  background-image: url(dino.png);
+  position: absolute; /* Forma que o elemento vai ficar posicionado */
+  bottom: 0; /*Dizer que o elemento vai ficar em BAIXO*/
+  }
 
 .cactus {
   position: absolute;
   width: 60px;
   height: 60px; /*altura*/
   bottom: 0;
-  background: red;
+  background-image: url(cactus.png);
+}
+
+.game-over {
+  text-align: center;
+  color: #666;
+  margin-top: 50px 0;
+  font-family: Arial;
+}
+/*Animações com CSS -  gire de maneira animada*/
+@keyframes slideright {
+  from {
+    background-position: 70000%;
+  }
+  to {
+    background-position: 0%;
+  }
 }
 
 .background {
-  width: 60px;
+  position: absolute;
+  bottom: 0;
+  background-image: url(background.png);
+  background-repeat: repeat-x;
+  animation: slideright 600s infinite linear;
+  width: 100%;
+  height: 200px;
 }
