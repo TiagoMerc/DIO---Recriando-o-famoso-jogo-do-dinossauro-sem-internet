@@ -15,3 +15,6 @@ Front-End | Intermediário
 
 - Adicionando os arquivos e as imagens do jogo
 
+#### Parte 2:
+
+- Definindo a estrutura do index e criando a estilização do dino

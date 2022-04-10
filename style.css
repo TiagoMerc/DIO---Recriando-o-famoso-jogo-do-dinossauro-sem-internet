@@ -1,0 +1,7 @@
+.dino { /*Elemento por classe, o PONTO*/
+ width: 60px;
+ height: 60px;
+ background: green;
+ position: absolute; /* Forma que o elemento vai ficar posicionado */
+ bottom: 0; /*Dizer que o elemento vai ficar em BAIXO*/
+}
